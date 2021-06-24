@@ -1,0 +1,8 @@
+{
+  "email": "standard_user",
+  "pass": "secret_sauce",
+  "email2":"locked_out_user",
+  "email3":"problem_user",
+  "email4":"performance_glitch_user"
+  
+}
